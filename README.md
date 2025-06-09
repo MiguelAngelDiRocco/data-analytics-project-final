@@ -35,3 +35,19 @@ El objetivo principal es ofrecer un tablero que permita a concesionarias, analis
 - `dashboard.PF.pbix` → Archivo de Power BI con el modelo relacional, transformaciones, medidas DAX y visualizaciones  
 - `documentacion.PF.pdf` → Informe completo explicando el proceso realizado    
 - `README.md` → Este archivo, con la presentación del proyecto.
+
+---
+
+## 📤 Contacto
+
+**Miguel Ángel Di Rocco**  
+📧 [migueldirocco.ds@gmail.com]
+🔗 [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/miguelangeldirocco/))  
+📁 [Portafolio]([https://www.tu-portafolio.com](https://github.com/MiguelAngelDiRocco))
+
+---
+
+## ✅ Estado del proyecto
+
+✔️ **Entrega finalizada** 📊 Dashboard funcional y optimizado  
+🧠 **Disponible para revisión o mejora futura**
