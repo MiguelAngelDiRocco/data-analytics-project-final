@@ -36,18 +36,17 @@ El objetivo principal es ofrecer un tablero que permita a concesionarias, analis
 - `documentacion.PF.pdf` → Informe completo explicando el proceso realizado    
 - `README.md` → Este archivo, con la presentación del proyecto.
 
----
+## 📫 Contacto
 
-## 📤 Contacto
-
-**Miguel Ángel Di Rocco**  
-📧 [migueldirocco.ds@gmail.com]
+Miguel Ángel Di Rocco  
+📧 migueldirocco.ds@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/miguelangeldirocco/)  
-📁 [Portafolio]([https://www.tu-portafolio.com](https://github.com/MiguelAngelDiRocco))
+📁 [Portfolio](https://github.com/MiguelAngelDiRocco)
 
 ---
 
 ## ✅ Estado del proyecto
 
-✔️ **Entrega finalizada** 📊 Dashboard funcional y optimizado  
-🧠 **Disponible para revisión o mejora futura**
+> ✔️ Entrega finalizada 
+> 📊 Dashboard funcional y optimizado  
+> 🧠 Disponible para revisión o mejora futura
