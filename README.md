@@ -9,7 +9,7 @@
 
 ## 📌 Descripción general
 
-📌 Descripción general
+ Descripción general
 Este proyecto final integra todas las etapas del proceso analítico desarrollados a lo largo del curso de Data Analytics, culminando en un tablero profesional en Power BI orientado al análisis del mercado de ventas de autos usados ​​en Emiratos Árabes Unidos .
 
 El proyecto incluye:
