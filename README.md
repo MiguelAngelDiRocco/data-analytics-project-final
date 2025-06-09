@@ -42,7 +42,7 @@ El objetivo principal es ofrecer un tablero que permita a concesionarias, analis
 
 **Miguel Ángel Di Rocco**  
 📧 [migueldirocco.ds@gmail.com]
-🔗 [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/miguelangeldirocco/))  
+🔗 [LinkedIn](https://www.linkedin.com/in/miguelangeldirocco/)  
 📁 [Portafolio]([https://www.tu-portafolio.com](https://github.com/MiguelAngelDiRocco))
 
 ---
