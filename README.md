@@ -4,7 +4,6 @@
 **Institución:** Coderhouse  
 **Alumno:** Miguel Ángel Di Rocco  
 **Entrega:** Proyecto Final 
-**Tema:** Mercado de autos usados en Emiratos Árabes Unidos
 
 ---
 
