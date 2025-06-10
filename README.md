@@ -47,6 +47,6 @@ Miguel Ángel Di Rocco
 
 ## ✅ Estado del proyecto
 
-> ✔️ Entrega finalizada 
-> 📊 Dashboard funcional y optimizado  
+> ✔️ Entrega finalizada. 
+> 📊 Dashboard funcional y optimizado. 
 > ✔️ Aprobado 10 (diez).- 
